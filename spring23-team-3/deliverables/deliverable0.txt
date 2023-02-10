@@ -1,5 +1,30 @@
 - What is the project focus/overall goal?
+
+    A data dashboard with a racial equity and economic
+    mobility lens.
+
 - Why is this project important?
+
+    This project would help with the understanding of the neighborhood,
+    provide a clear image of the neighborhood’s challenges, resources, and
+    disparities.
+
+
 - What type of data will you collect or be analyzing?
+
+    US Census Data, CDC Data, SWBID Data Dashboard (not updated) National Equity Atlas,
+    DC Racial Wealth Gap report, DC Open Data Catalog, Opportunity Atlas (Raj Chetty),
+    DMPED Economic Mobility Report, City Health Dashboard, 
+    Winnipeg Data Dashboard (visualization example)
+
 - What are potential limitations of the project?
+
+    One limitation in particular could be the learning curve the team
+    must overcome in respect to the software packages that would be needed
+    to complete the deliverable.
+
 - What are your next steps? Divide tasks amongst the team
+
+    Next steps include meeting together as a group and deliberating
+    on each other's strengths & past experiences in regards to 
+    the technologies we expect to use for this project.
