@@ -1,1 +1,38 @@
+What is the project focus/overall goal?
+
+
+The focus of the project is to create a comprehensive data dashboard 
+that provides a clear understanding of the challenges, resources, 
+and disparities in Southwest DC. 
+This dashboard will have a racial equity 
+and economic mobility lens to help 
+define a path forward towards a more equitable, inclusive, and thriving community.
+    
+
+
+Why is this project important?
+
+The project is important as Southwest DC is a neighborhood that has gone through significant changes in the past 60 years, with a history of urban renewal and displacement of its African American community. This has resulted in a neighborhood that is now comprised of three distinct communities: Old Southwest (public housing communities), new market rate residential buildings, and a dwindling middle class. The data dashboard will help in understanding the current challenges and disparities faced by these communities and help in addressing them.
+
+
+
+What type of data will you collect or be analyzing?
+
+The data collected for this project will come from several sources such as US Census Data, CDC Data, SWBID Data Dashboard, National Equity Atlas, DC Racial Wealth Gap report, DC Open Data Catalog, Opportunity Atlas (Raj Chetty), DMPED Economic Mobility Report, City Health Dashboard, and Winnipeg Data Dashboard (visualization example). The data will focus on variables such as public safety, demographics, economic vitality, readiness/health equity, and access to resources.
+
+
+
+What are potential limitations of the project?
+
+Potential limitations of the project could be data quality and completeness, outdated data, and limitations in data granularity (focus on census block group wherever possible).
+
+
+
+
+
+
+What are your next steps? Divide tasks amongst the team
+
+
+The next steps in the project would be to divide tasks among the team and create a work plan with weekly sprints on the Trello board. This would involve reviewing the project description and determining any questions or clarifications needed from the client, and using the data sets to analyze the relevant variables.
 
