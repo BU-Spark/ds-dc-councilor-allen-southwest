@@ -1,0 +1,38 @@
+
+
+The data provide insights into the socio-economic status of the residents in Census Tract 64. The household income data gives an idea of the income levels of the residents, while the monthly housing cost data provides information on the housing affordability of the residents.
+
+Combining the two sets of data, we can infer that a significant portion of the renter-occupied housing units fall under the lower income categories, and many of them have to bear a significant monthly housing cost burden. On the other hand, a significant portion of the owner-occupied housing units fall under higher income categories, and many of them have higher monthly housing costs but can afford them.
+
+From the data provided, we can observe the following:
+* Census Tract 64 in District of Columbia has a higher percentage of owner-occupied housing units compared to Census Tract 102.01, which has a higher percentage of renter-occupied housing units.
+* In Census Tract 64, District of Columbia, the majority of owner-occupied housing units have monthly housing costs between $1,500 to $2,999, while the majority of renter-occupied housing units have monthly housing costs between $500 to $1,499.
+* In Census Tract 102.01, District of Columbia, the majority of owner-occupied housing units have monthly housing costs between $1,500 to $1,999, while the majority of renter-occupied housing units have monthly housing costs between $2,000 to $2,499.
+* The household income distribution in both Census Tract 64 and Census Tract 102.01, District of Columbia, varies with Census Tract 102.01 having a higher percentage of households with incomes over $100,000 compared to Census Tract 64.
+* There is missing data for the monthly housing costs for the highest income bracket in Census Tract 102.01, District of Columbia.
+
+In Census Tract 102.01, which has a higher percentage of renter-occupied housing units, we can see that a significant proportion of households have a household income of $50,000 or more (32.9%) and $150,000 or more (32.9%). Meanwhile, 41.9% of owner-occupied housing units have monthly housing costs of $1,500 to $1,999.
+In Census Tract 102.02, which has a more even distribution of renter-occupied and owner-occupied housing units, we can see that a significant proportion of households have a household income of $50,000 or more (39.1%) and $100,000 to $149,999 (30.1%). Additionally, 29.8% of owner-occupied housing units have monthly housing costs of $3,000 or more. On the other hand, a significant proportion of renter-occupied housing units have monthly housing costs of $1,000 to $1,499 (24.8%) and $500 to $799 (12.8%).
+It's worth noting that there are some missing values in the data (NaN) for the percentage of owner-occupied housing units with monthly housing costs of $3,000 or more in Census Tract 102.02 and the percentage of renter-occupied housing units with no cash rent in Census Tract 102.01.
+
+According to Census Tract 105, For household income in the past 12 months, we see that for renter-occupied housing units, the majority of households have an income of $100,000 or more (22.00%), followed by $150,000 or more (17.10%). For owner-occupied housing units, the majority of households have an income of $150,000 or more (44.10%), followed by $100,000 to $149,999 (20.90%).
+In terms of monthly housing costs, for renter-occupied housing units, the majority of households pay $1,500 to $1,999 (40.60%), followed by $800 to $999 (22.10%). For owner-occupied housing units, the majority of households pay $2,000 to $2,499 (30.40%), followed by $3,000 or more (27.70%).
+
+From the data, we can see that:
+* Census Tract 110.01 in the District of Columbia has a mix of renter-occupied and owner-occupied housing units.
+* For renter-occupied housing units, the most common income range is $5,000 to $9,999 and the least common is less than $5,000.
+* For owner-occupied housing units, the most common income range is $50,000 to $74,999 and the least common is less than $5,000.
+* Monthly housing costs for owner-occupied housing units in Census Tract 110.01 are primarily in the $1,000 to $2,499 range, while renter-occupied housing units have more variability in monthly costs.
+* For both renter-occupied and owner-occupied housing units, the most common monthly housing cost range is $1,000 to $1,499.
+
+Based on the data provided for Census Tract 110.02 in the District of Columbia, some observations are:
+* The percentage of renter-occupied housing units is higher than owner-occupied units.
+* Among renter-occupied housing units, the majority (28.8%) have a household income between $50,000 to $74,999.
+* Among owner-occupied housing units, the largest income category is the $150,000 or more category (42.4%).
+* The percentage of owner-occupied units paying between $1,000 to $1,499 for monthly housing costs is the highest (23%), followed closely by those paying $1,500 to $1,999 (20%).
+* Among renter-occupied units, the majority (36.2%) pay monthly housing costs between $1,500 to $1,999. The second-highest percentage is for those paying $500 to $799 (23.3%).
+
+
+
+
+
