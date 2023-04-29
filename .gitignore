@@ -1,4 +1,5 @@
-
+# Ignore Notebook checkpoints
+**/.ipynb_checkpoints/
 
 
 # Jetbrains Products
