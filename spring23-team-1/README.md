@@ -9,7 +9,7 @@ All the visualizations were plotted in python and can be viewed through Voila Da
 Instructions to install voila dashboard :
 1. pip3 install voila 
 2. restart/start the jupyter notebook : jupyter notebook
-3. Extenshion "voila" will be added as a small icon.
+3. Extension "voila" will be added as a small icon.
 4. Click on voila - It executes all cells and produces only the plots and explaination on the screen.
 
 
@@ -25,8 +25,8 @@ All the visualizations were plotted in python and can be viewed through Voila Da
 Our Final Report could be viewed at this Link : https://drive.google.com/drive/folders/1H_2jLYTJs7Ai2GdeSR8DV_WJCycACq4L
 
 # Team 1 members: 
-Harshitha Tumkur Kailasa Murthy
-Kristopher Chou
-Vishwas Bhaktavatsala
-Yeh-Min Lu
+Harshitha Tumkur Kailasa Murthy <br />
+Vishwas Bhaktavatsala <br />
+Kristopher Chou <br />
+Yeh-Min Lu <br />
 
