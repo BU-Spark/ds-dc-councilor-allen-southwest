@@ -1,0 +1,7 @@
+NOTES ON THE GRAPHS:
+The findings, by evaluating upon the income estimation of the households from the Southwest D.C. are:
+-The majority of families in the region relies on earnings and wages for a living, while there are a few depends on social security or supplemental income,
+which is quite minor compared to the average income as a whole 
+-Most of the families have both spouses as the main work force to feed all the members of the family, while there are quite a few household depends solely on
+a single worker, there are also some family with no employed members 
+-Income varies more significantly between tracts to tracts over different races. (require further statisitical proof or analysis)

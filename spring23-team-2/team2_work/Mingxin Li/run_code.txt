@@ -1,0 +1,4 @@
+
+1. To begin, access the .ipynb file by utilizing Google Colab.  
+2. Then proceed to upload the necessary data files located within the spring23-team-2/data folder to your Google Drive base directory. 
+3. Once uploaded, execute the sequence of steps as presented to generate the desired output.

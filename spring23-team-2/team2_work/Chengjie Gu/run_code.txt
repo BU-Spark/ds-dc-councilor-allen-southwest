@@ -1,0 +1,8 @@
+Run code
+Chengjie GU:
+income.ipynb
+The code reads data from the CSV inside the file "Deliverable1". The code could run the charts with matplotlib inside ther python library, and only python 3.9 is required for the code to run(Same to all three)
+income2
+The code read file from the CSV inside the file ChengjieData2, which has already been added as the name PATH in the code
+deliverable3(mobility_population analysis)
+The code runs on a single file from ChengjieData3
