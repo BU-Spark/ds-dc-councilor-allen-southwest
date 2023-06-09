@@ -16,7 +16,9 @@ neighborhood’s challenges, resources, and disparities, and help define a path 
 equitable, inclusive, and thriving community.
 
 ## Education
-You can see the important information regarding education within the 'Education' directory. All the CSV files that are needed to run the code are within 'Education/data'. All the generated plots are in 'Education/Plots'. To run the code, just open the '.ipynb' file with either Jupyter, or Google Colab, and all of the cells should run without requiring any additional user effort.
+You can see the important information regarding education within the 'Education Analysis' directory. All the CSV files that are needed to run the code are within 'Education Analysis/data'. All the generated plots are in 'Education Analysis/Plots'. To run the code, just open the 'Education Analysis.ipynb' file with either Jupyter, or Google Colab, and all of the cells should run without requiring any additional user effort.
+
+The notebook and its outputs have also been saved as a PDF in 'EducationAnalysis_PDF.pdf'.
 
 ## Poverty
 To run the notebook on economic vitality & unemployment analysis (dev2_S301 3.ipynb), download a CSV of table 'S2301' from the US Census website and make sure it is in the same directory as the notebook.
