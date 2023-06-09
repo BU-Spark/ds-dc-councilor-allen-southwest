@@ -26,3 +26,9 @@ To run the notebook on economic vitality & unemployment analysis (dev2_S301 3.ip
 ## Economic Vitality
 To run the notebook on poverty (deliverables/team-3_del2_poverty.ipynb), create an API key with the US census website at https://api.census.gov/data/key_signup.html . Set the first line API_SECRET_KEY = "YOUR KEY", and then run the rest of the jupyter notebook.
 
+## Food Stamps
+To run the notebook on Food Stamp, all the important information regarding food stamp is under the "delieverable" folder. All the CSV files that are needed to run the code re in the 'Remade.csv'. All the generated charts can be found in the file as well.
+
+## Household Tenure
+To run the notebook on Household Tenure, all the important information regarding House Tenure is under the "delieverable" folder. All the CSV files that are needed to run the code re in the 'delieverable3.csv'. All the generated charts can be found in the file as well.
+
