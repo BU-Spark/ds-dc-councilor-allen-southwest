@@ -29,3 +29,4 @@ To run the notebook on economic vitality & unemployment analysis (dev2_S301 3.ip
 Working within the "PovertyAnalysis" directory, there is a cell on top of each notebook where one must place their API key. Afterwards, one can simply run each cell to see the visualizations.
 
 ## Economic Vitality
+To run the notebook on poverty (deliverables/team-3_del2_poverty.ipynb), create an API key with the US census website at https://api.census.gov/data/key_signup.html . Set the first line API_SECRET_KEY = "YOUR KEY", and then run the rest of the jupyter notebook.
