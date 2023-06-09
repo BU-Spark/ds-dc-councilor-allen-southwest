@@ -19,8 +19,9 @@ equitable, inclusive, and thriving community.
 _You must first register for an API key in order to use US census data. [Please register for one here](https://api.census.gov/data/key_signup.html)_
 
 ## Education
+You can see the important information regarding education within the 'Education Analysis' directory. All the CSV files that are needed to run the code are within 'Education Analysis/data'. All the generated plots are in 'Education Analysis/Plots'. To run the code, just open the 'Education Analysis.ipynb' file with either Jupyter, or Google Colab, and all of the cells should run without requiring any additional user effort.
 
-You can see the important information regarding education within the 'Education' directory. All the CSV files that are needed to run the code are within 'Education/data'. All the generated plots are in 'Education/Plots'. To run the code, just open the '.ipynb' file with either Jupyter, or Google Colab, and all of the cells should run without requiring any additional user effort.
+The notebook and its outputs have also been saved as a PDF in 'EducationAnalysis_PDF.pdf'.
 
 ## Poverty
 
@@ -30,3 +31,10 @@ Working within the "PovertyAnalysis" directory, there is a cell on top of each n
 
 ## Economic Vitality
 To run the notebook on poverty (deliverables/team-3_del2_poverty.ipynb), create an API key with the US census website at https://api.census.gov/data/key_signup.html . Set the first line API_SECRET_KEY = "YOUR KEY", and then run the rest of the jupyter notebook.
+
+## Food Stamps
+To run the notebook on Food Stamp, all the important information regarding food stamp is under the "delieverable" folder. All the CSV files that are needed to run the code re in the 'Remade.csv'. All the generated charts can be found in the file as well.
+
+## Household Tenure
+To run the notebook on Household Tenure, all the important information regarding House Tenure is under the "delieverable" folder. All the CSV files that are needed to run the code re in the 'delieverable3.csv'. All the generated charts can be found in the file as well.
+
